@@ -1,0 +1,20 @@
+{
+  "name": "GlobalLogic-Spark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^4.0.0",
+    "csv-writer": "^1.2.0",
+    "faker": "^4.1.0",
+    "json2csv": "^4.2.1",
+    "jsonfile": "^5.0.0",
+    "mkdirp": "^0.5.1"
+  }
+}
